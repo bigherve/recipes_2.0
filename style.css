@@ -1,0 +1,48 @@
+* {
+    box-sizing: border-box;
+}
+
+body {
+    background-color: #0f0;
+}
+
+img {
+    width: 500px;
+    height: 350px;
+    border: 5px solid #040;
+}
+
+#container {
+    border: 5px solid greenyellow;
+    background-color: green;
+    margin: 0 auto;
+    font-family: Impact, sans-serif;
+    color: #040;
+    text-align: center;
+    max-height: 400px;
+    max-height: 800px;
+}
+
+li {
+    text-align: left;
+}
+
+a:link {
+    color: #006700;
+    text-decoration: none;
+}
+
+a:visited {
+    color: greenyellow;
+    text-decoration: none;
+}
+
+a:hover {
+    color: #4ca64c;
+    text-decoration: underline;
+}
+
+a:active {
+    color: #00cd00;
+    text-decoration: none;
+}
