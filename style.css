@@ -7,13 +7,13 @@ body {
 }
 
 img {
-    width: 500px;
-    height: 350px;
-    border: 5px solid #040;
+    max-width: 100%;
+    max-height: 100%;
+    border: 10px solid #040;
 }
 
 #container {
-    border: 5px solid greenyellow;
+    border: 10px solid greenyellow;
     background-color: green;
     margin: 0 auto;
     font-family: Impact, sans-serif;
