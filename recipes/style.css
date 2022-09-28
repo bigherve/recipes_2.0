@@ -16,6 +16,14 @@ img {
     border: 10px solid #040;
 }
 
+ul {
+    list-style: square;
+}
+
+ol {
+    list-style: upper-roman;
+}
+
 .container {
     background: green;
     font-family: impact, sans-serif;

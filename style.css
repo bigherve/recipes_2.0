@@ -12,6 +12,10 @@ img {
     border: 10px solid #040;
 }
 
+ol {
+    list-style: upper-roman;
+}
+
 #container {
     border: 10px solid greenyellow;
     background-color: green;
